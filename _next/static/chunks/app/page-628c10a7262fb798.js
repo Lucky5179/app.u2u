@@ -769,7 +769,7 @@
                               (0, i.jsxs)("p", {
                                 className:
                                   "text-lg laptop:text-2xl font-bold text-[#7EFFC5]",
-                                children: [T(Q, 3), " $U2U/day"],
+                                children: [T(Q, 3), " $E2E/day"],
                               }),
                             ],
                           }),
@@ -927,7 +927,7 @@
                       children: [
                         (0, i.jsx)("p", {
                           className: "font-semibold",
-                          children: "Total Rewards ($U2U)",
+                          children: "Total Rewards ($E2E)",
                         }),
                         (0, i.jsx)("p", {
                           className:
@@ -1586,7 +1586,7 @@
                                   (0, i.jsxs)("p", {
                                     className:
                                       "text-lg laptop:text-2xl font-bold text-[#7EFFC5]",
-                                    children: [T(W, 3), " $U2U/day"],
+                                    children: [T(W, 3), " $E2E/day"],
                                   }),
                                 ],
                               }),
@@ -1745,7 +1745,7 @@
                                   (0, i.jsxs)("p", {
                                     className:
                                       "text-lg laptop:text-2xl font-bold text-[#7EFFC5]",
-                                    children: [T(G, 3), " $U2U/day"],
+                                    children: [T(G, 3), " $E2E/day"],
                                   }),
                                 ],
                               }),
@@ -1992,7 +1992,7 @@
                                           (0, i.jsxs)("p", {
                                             className:
                                               "text-lg laptop:text-2xl font-bold text-[#7EFFC5]",
-                                            children: [T(W, 3), " $U2U/day"],
+                                            children: [T(W, 3), " $E2E/day"],
                                           }),
                                         ],
                                       }),
@@ -2177,7 +2177,7 @@
                                             children: [
                                               T(G, 3),
                                               " ",
-                                              "$U2U/day",
+                                              "$E2E/day",
                                             ],
                                           }),
                                         ],
@@ -3050,7 +3050,7 @@
                     " text-white font-jockey text-2xl leading-[64px] text-[64px] max-[1000px]:text-[30px] font-normal mb-4",
                   children:
                     "public" === k.pi.toLowerCase()
-                      ? "U2U Incentivized Mainnet Saga"
+                      ? "E2E Incentivized Mainnet Saga"
                       : "Unlock Rewards  with Bitget Wallet Staking!",
                 }),
                 (0, i.jsx)("p", {
@@ -3063,8 +3063,8 @@
                     " font-jockey font-normal text-[32px] leading-[35px] max-[1000px]:text-[24px]",
                   children:
                     "public" === k.pi.toLowerCase()
-                      ? "Stake, Earn $U2U Instantly, and Watch Your Rewards Grow!"
-                      : "Stake $pUSDT & Claim $U2U Instantly",
+                      ? "Stake, Earn $E2E Instantly, and Watch Your Rewards Grow!"
+                      : "Stake $pUSDT & Claim $E2E Instantly",
                 }),
               ],
             }),
